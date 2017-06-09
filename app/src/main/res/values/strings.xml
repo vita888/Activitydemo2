@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activitydemo</string>
+    <string name="name">Input your name</string>
+    <string name="register">register</string>
+</resources>
